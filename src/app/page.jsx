@@ -119,7 +119,7 @@ const listHero =[
                   
       
 
-            <div className="container grid grid-cols-1 gap-3 sm:grid-cols-2  mt-20 md:grid-cols-3
+            <div className="container mx-auto grid grid-cols-1 gap-3 sm:grid-cols-2  mt-20 md:grid-cols-3
             ">
 
               {
