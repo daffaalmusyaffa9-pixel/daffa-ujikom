@@ -1,0 +1,81 @@
+[
+  {
+    "id": 1,
+    "title": "Fjallraven Greenland",
+    "price":  5299000,
+    "description": "Jaket outdoor klasik dari Fjällräven, tahan cuaca dingin dan angin, cocok untuk hiking dan perjalanan musim dingin.",
+    "category": "PREMIUM EDITION",
+    "image": "image/1.jpeg"
+  },
+  {
+    "id": 2,
+    "title": "Mountain of Moods Snow Jacket",
+    "price": 15000000,
+    "description": " Snow jacket premium dengan insulasi tebal, dirancang untuk salju dan suhu sangat rendah.",
+    "category": "PREMIUM EDITION",
+    "image": "image/2.jpeg"
+  },
+  {
+    "id": 3,
+    "title": "snow peak apparel Everyday Down Jacket",
+    "price":  40000000,
+    "description": "Down jacket serbaguna dari Snow Peak, ringan namun sangat hangat untuk cuaca dingin.",
+    "category": "PREMIUM EDITION",
+    "image": "image/3.jpeg"
+  },
+  {
+    "id": 4,
+    "title": "blanc noir Reflective Inset Parka",
+    "price":  6000000,
+    "description": "Parka stylish dengan inset reflektif, tangguh terhadap angin dan tetap fashionable.",
+    "category": "PREMIUM EDITION",
+    "image": "image/4.jpeg"
+  },
+  {
+    "id": 5,
+    "title": "Curved Winter Jacket",
+    "price":  4000000,
+    "description": " Jaket musiman dingin dengan desain modern dan siluet unik, cocok dipakai keseharian.",
+    "category": "MODERN",
+    "image": "image/5.jpeg"
+  },
+  {
+    "id": 6,
+    "title": "Jacket TACVASEN Fleece Soft Warm Windproof",
+    "price":  14000000,
+    "description": "Fleece jacket tahan angin, cocok untuk aktivitas luar ruangan di cuaca dingin.",
+    "category": "CASUAL",
+    "image": "image/6.jpeg"
+  },
+  {
+    "id": 7,
+    "title": "Jaket parka hoodie new pocket Unisex",
+    "price":  18000000,
+    "description": " Parka ringan unisex dengan banyak saku, pilihan murah dan fungsional.",
+    "category": "CASUAL",
+    "image": "image/7.jpeg"
+  },
+  {
+    "id": 8,
+    "title": "Excalibur Reversible Down Men’s Winter Jacket ",
+    "price":  80000000,
+    "description": " Down jacket bolak-balik yang nyaman dan hangat, bisa dipakai dua gaya.",
+    "category": "Premium Edition",
+    "image": "image/8.jpeg"
+  },
+  {
+    "id": 9,
+    "title": "Embroidered Wool Scarf Jacket Dark Grey Melange",
+    "price":  2500000,
+    "description": " Jaket wol premium dengan detail scarf terintegrasi, cocok buat tampilan elegan musim dingin.",
+    "category":"PREMIUM EDITION",
+    "image": "image/9.jpeg"
+  },
+  {
+    "id": 10,
+    "title": "Armoniques Ski Puffer Jacket Black",
+    "price":  3500000,
+    "description": " Puffer jacket berkualitas tinggi, ideal untuk ski atau salju berat.",
+    "category": "PREMIUM EDITION",
+    "image": "image/10.jpeg"
+  }]

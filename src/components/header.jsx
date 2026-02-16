@@ -1,22 +1,19 @@
 "use client"
+import { useRouter } from "next/navigation";
+import { Button } from "./ui/button";
 
-
-const Header = ()=>{
-
+const Header = (props)=>{
+        const router = useRouter()
 return(
     
-        <div className="bg-blue-400 font-bold text-3xl px-10 py-2">
-    <p className="text-red-500 text-3xl">
-
-    </p>
-    <div id="div-content">
-       
+        <div className="bg-primary flex justify-between items-center py-4 px-8 ">
+            <h1 className="text-primary-foreground font-bold text-3xl">
+                Daffa Shop
+            </h1>
+            <Button variant={"secondary"} onClick={()=>router.push(props.to)} className={"cursor-pointer"}>
+             {props.cta}
+            </Button>
     </div>
-            BILAL Store
-        </div>
-
-)
-
-}
+)}
 
 export default Header;
